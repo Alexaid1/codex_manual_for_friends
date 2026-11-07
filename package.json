@@ -1,0 +1,11 @@
+{
+  "name": "codex-for-friends",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs",
+    "test": "node scripts/check.mjs"
+  }
+}
